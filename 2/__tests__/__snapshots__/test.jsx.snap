@@ -12,11 +12,13 @@ exports[`Card 1 1`] = `
     >
       title 1
     </h4>
+     
     <p
       className="card-text"
     >
       text 1
     </p>
+           
   </div>
 </div>
 `;
@@ -33,11 +35,13 @@ exports[`Card 2 1`] = `
     >
       title 2
     </h4>
+     
     <p
       className="card-text"
     >
       text 2
     </p>
+           
   </div>
 </div>
 `;
@@ -54,6 +58,8 @@ exports[`Card 4 1`] = `
     >
       title 1
     </h4>
+     
+           
   </div>
 </div>
 `;
@@ -65,11 +71,13 @@ exports[`Card 5 1`] = `
   <div
     className="card-body"
   >
+     
     <p
       className="card-text"
     >
       text 1
     </p>
+           
   </div>
 </div>
 `;

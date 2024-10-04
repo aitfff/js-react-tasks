@@ -7,7 +7,6 @@ exports[`Collapse 1`] = `
       <a
         aria-expanded="false"
         class="btn btn-primary"
-        data-bs-toggle="collapse"
         href="#"
         role="button"
       >
@@ -34,7 +33,6 @@ exports[`Collapse 2`] = `
       <a
         aria-expanded="true"
         class="btn btn-primary"
-        data-bs-toggle="collapse"
         href="#"
         role="button"
       >
@@ -61,7 +59,6 @@ exports[`Collapse 3`] = `
       <a
         aria-expanded="false"
         class="btn btn-primary"
-        data-bs-toggle="collapse"
         href="#"
         role="button"
       >
@@ -88,7 +85,6 @@ exports[`Collapse 4`] = `
       <a
         aria-expanded="true"
         class="btn btn-primary"
-        data-bs-toggle="collapse"
         href="#"
         role="button"
       >
@@ -115,7 +111,6 @@ exports[`Collapse2 1`] = `
       <a
         aria-expanded="true"
         class="btn btn-primary"
-        data-bs-toggle="collapse"
         href="#"
         role="button"
       >

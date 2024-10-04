@@ -40,8 +40,6 @@ exports[`Carousel 1`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -56,8 +54,6 @@ exports[`Carousel 1`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -114,8 +110,6 @@ exports[`Carousel 2`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -130,8 +124,6 @@ exports[`Carousel 2`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -188,8 +180,6 @@ exports[`Carousel 2 1`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -204,8 +194,6 @@ exports[`Carousel 2 1`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -262,8 +250,6 @@ exports[`Carousel 2 2`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -278,8 +264,6 @@ exports[`Carousel 2 2`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -336,8 +320,6 @@ exports[`Carousel 2 3`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -352,8 +334,6 @@ exports[`Carousel 2 3`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -410,8 +390,6 @@ exports[`Carousel 2 4`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -426,8 +404,6 @@ exports[`Carousel 2 4`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -484,8 +460,6 @@ exports[`Carousel 3`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -500,8 +474,6 @@ exports[`Carousel 3`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -558,8 +530,6 @@ exports[`Carousel 4`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -574,8 +544,6 @@ exports[`Carousel 4`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -632,8 +600,6 @@ exports[`Carousel 5`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -648,8 +614,6 @@ exports[`Carousel 5`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -706,8 +670,6 @@ exports[`Carousel 6`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -722,8 +684,6 @@ exports[`Carousel 6`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -780,8 +740,6 @@ exports[`Carousel 7`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -796,8 +754,6 @@ exports[`Carousel 7`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -854,8 +810,6 @@ exports[`Carousel 8`] = `
     </div>
     <button
       class="carousel-control-prev"
-      data-bs-slide="prev"
-      data-bs-target="#carousel"
       type="button"
     >
       <span
@@ -870,8 +824,6 @@ exports[`Carousel 8`] = `
     </button>
     <button
       class="carousel-control-next"
-      data-bs-slide="next"
-      data-bs-target="#carousel"
       type="button"
     >
       <span

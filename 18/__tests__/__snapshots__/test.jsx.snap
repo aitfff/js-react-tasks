@@ -109,6 +109,9 @@ exports[`TodoBox 2 2`] = `
       </form>
     </div>
     <div
+      class="todo-active-tasks"
+    />
+    <div
       class="todo-finished-tasks"
     >
       <div

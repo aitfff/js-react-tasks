@@ -488,6 +488,9 @@ exports[`Component 10`] = `
         -
       </button>
     </div>
+    <div
+      class="list-group"
+    />
   </div>
 </DocumentFragment>
 `;
